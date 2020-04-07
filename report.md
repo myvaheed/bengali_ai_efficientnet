@@ -13,6 +13,8 @@ paginate: true
 
 Mukhammet Nazirov
 
+<!-- _paginate: false -->
+
 ---
 
 
@@ -164,5 +166,5 @@ class EffMultioutputNet(nn.Module):
 
 # Source code
 
-
+https://github.com/myvaheed/bengali_ai_efficientnet
 
