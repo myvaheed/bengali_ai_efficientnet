@@ -1,0 +1,5 @@
+efficientnet-pytorch
+albumentations
+matplotlib
+torch
+tqdm
